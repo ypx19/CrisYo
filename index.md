@@ -1,5 +1,5 @@
 ---
-layout: default
+AboutMe
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Me](crisyo.JPG)
 
 ### Large image
 
